@@ -1,2 +1,2 @@
-# delegates_events
+# delegates-events
 Delegates / Events C#
